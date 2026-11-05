@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import RetroHeader from './components/RetroHeader';
 import VinylPlayer from './components/VinylPlayer';
 import TrackList from './components/TrackList';
